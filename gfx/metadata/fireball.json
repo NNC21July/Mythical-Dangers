@@ -1,0 +1,39 @@
+{
+  "frames": {
+    "New Piskel0.png": {
+      "frame": { "x": 0, "y": 0, "w": 1440, "h": 810 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 1440, "h": 810 },
+      "sourceSize": { "w": 1440, "h": 810 }
+    },
+    "New Piskel1.png": {
+      "frame": { "x": 0, "y": 810, "w": 1440, "h": 810 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 1440, "h": 810 },
+      "sourceSize": { "w": 1440, "h": 810 }
+    },
+    "New Piskel2.png": {
+      "frame": { "x": 0, "y": 1620, "w": 1440, "h": 810 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 1440, "h": 810 },
+      "sourceSize": { "w": 1440, "h": 810 }
+    },
+    "New Piskel3.png": {
+      "frame": { "x": 0, "y": 2430, "w": 1440, "h": 810 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 1440, "h": 810 },
+      "sourceSize": { "w": 1440, "h": 810 }
+    }
+  },
+  "meta": {
+    "app": "https://github.com/piskelapp/piskel/",
+    "version": "1.0",
+    "image": "New Piskel.png",
+    "format": "RGBA8888",
+    "size": { "w": 1440, "h": 3240 }
+  }
+}

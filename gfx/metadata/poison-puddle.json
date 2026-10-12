@@ -1,0 +1,75 @@
+{
+  "frames": {
+    "New Piskel0.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 125,
+        "h": 35
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 125,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 125,
+        "h": 35
+      }
+    },
+    "New Piskel1.png": {
+      "frame": {
+        "x": 125,
+        "y": 0,
+        "w": 150,
+        "h": 35
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 35
+      }
+    },
+    "New Piskel2.png": {
+      "frame": {
+        "x": 275,
+        "y": 0,
+        "w": 175,
+        "h": 35
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 35
+      }
+    }
+  },
+  "meta": {
+    "app": "http://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "spritesheet.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 450,
+      "h": 35
+    },
+    "scale": "1"
+  }
+}

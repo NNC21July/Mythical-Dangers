@@ -1,0 +1,46 @@
+{
+  "frames": {
+    "New Piskel0.png": {
+      "frame": { "x": 0, "y": 0, "w": 750, "h": 930 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 930 },
+      "sourceSize": { "w": 750, "h": 930 }
+    },
+    "New Piskel1.png": {
+      "frame": { "x": 750, "y": 0, "w": 750, "h": 930 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 930 },
+      "sourceSize": { "w": 750, "h": 930 }
+    },
+    "New Piskel2.png": {
+      "frame": { "x": 1500, "y": 0, "w": 750, "h": 930 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 930 },
+      "sourceSize": { "w": 750, "h": 930 }
+    },
+    "New Piskel3.png": {
+      "frame": { "x": 2250, "y": 0, "w": 750, "h": 930 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 930 },
+      "sourceSize": { "w": 750, "h": 930 }
+    },
+    "New Piskel4.png": {
+      "frame": { "x": 3000, "y": 0, "w": 750, "h": 930 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 930 },
+      "sourceSize": { "w": 750, "h": 930 }
+    }
+  },
+  "meta": {
+    "app": "https://github.com/piskelapp/piskel/",
+    "version": "1.0",
+    "image": "turret.png",
+    "format": "RGBA8888",
+    "size": { "w": 3750, "h": 930 }
+  }
+}
