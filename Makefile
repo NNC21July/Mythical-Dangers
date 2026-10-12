@@ -1,6 +1,10 @@
-all: compile link
+# Thin wrapper to preserve `mingw32-make` as the build command.
+# Requires UCRT64 g++, CMake, Ninja and Git on PATH (see README).
+.PHONY: all clean
 
-compile:
-	g++ -I include -c src/main.cpp
-link:
-	g++ main.o -o main.exe -L lib -l sfml-graphics -l sfml-window -l sfml-system -l sfml-audio
+all:
+	cmake -S . -B build -G Ninja -DCMAKE_BUILD_TYPE=Release
+	cmake --build build --parallel 2
+
+clean:
+	cmake -E rm -rf build
